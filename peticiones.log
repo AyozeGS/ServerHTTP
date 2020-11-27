@@ -1,0 +1,22 @@
+01/11/2020 20:41:22        127.0.0.1 Procesada (72 ms) /inicio
+01/11/2020 20:41:22        127.0.0.1 Procesada (8 ms) /favicon.ico
+01/11/2020 20:41:24        127.0.0.1 Procesada (1 ms) /quijote
+01/11/2020 20:41:24        127.0.0.1 Procesada (2 ms) /fondoLibro.jpg
+01/11/2020 20:41:24        127.0.0.1 Error java.nio.file.NoSuchFileException: images\faviconGreen.png (/faviconGreen.png)
+01/11/2020 20:41:24        127.0.0.1 Abortada /faviconGreen.png
+01/11/2020 20:41:29        127.0.0.1 java.lang.ArithmeticException: / by zero (/divisionPorCero)
+01/11/2020 20:41:29        127.0.0.1 Procesada (2 ms) /divisionPorCero
+01/11/2020 20:41:31        127.0.0.1 Procesada (433 ms) /tiempoTransmisionURL
+01/11/2020 20:41:52        127.0.0.1 Procesada (134 ms) /tiempoTransmisionURL?url=es.wikipedia.org/wiki/Protocolo_de_transferencia_de_hipertexto
+01/11/2020 20:41:56        127.0.0.1 Aviso java.lang.IllegalArgumentException: protocol = http host = null (/tiempoTransmisionURL?url=)
+01/11/2020 20:41:56        127.0.0.1 Procesada (1 ms) /tiempoTransmisionURL?url=
+01/11/2020 20:42:00        127.0.0.1 Aviso java.net.UnknownHostException: ieselrincon (/tiempoTransmisionURL?url=ieselrincon)
+01/11/2020 20:42:00        127.0.0.1 Procesada (2317 ms) /tiempoTransmisionURL?url=ieselrincon
+01/11/2020 20:42:12        127.0.0.1 Aviso java.io.IOException: Server returned HTTP response code: 403 for URL: http://serdis.dis.ulpgc.es/ (/tiempoTransmisionURL?url=serdis.dis.ulpgc.es/)
+01/11/2020 20:42:12        127.0.0.1 Procesada (128 ms) /tiempoTransmisionURL?url=serdis.dis.ulpgc.es/
+01/11/2020 20:42:17        127.0.0.1 Procesada (93 ms) /inetAdress
+01/11/2020 20:42:17        127.0.0.1 Procesada (1 ms) /faviconBlue.png
+01/11/2020 20:45:04        127.0.0.1 Procesada (3 ms) /mostrarFicheroLog
+01/11/2020 20:45:04        127.0.0.1 Procesada (1 ms) /save.png
+01/11/2020 20:45:04        127.0.0.1 Procesada (2 ms) /faviconRed.png
+01/11/2020 20:46:42        127.0.0.1 Procesada (1 ms) /descargarFicheroLog
